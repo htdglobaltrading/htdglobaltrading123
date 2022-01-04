@@ -407,7 +407,7 @@ border-top-color: #f9c922; /* Chrome, Opera 15+, Safari 5+ */ animation: spin 1.
 	max-width: 320px;
     margin: 0 auto;
 }
-
+/*
 .tm-img-gallery {
 	margin: 0 auto 40px;
 	display: inline-block;
@@ -432,7 +432,7 @@ border-top-color: #f9c922; /* Chrome, Opera 15+, Safari 5+ */ animation: spin 1.
   	border: none;
   	margin: 0 auto;
 }
-
+*/
 .tm-textbox-padding { padding: 35px 30px; }
 
 .cd-hero-slider h2.tm-contact-info {
