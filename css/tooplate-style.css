@@ -412,13 +412,7 @@ border-top-color: #f9c922; /* Chrome, Opera 15+, Safari 5+ */ animation: spin 1.
 	margin: 0 auto 40px;
 	display: inline-block;
 }
-/*
-@media (min-width: 480px) {
-	.tm-img-gallery {
-		margin: 0 auto;
-	}
-}
-*/
+
 .tm-img-gallery-info-container {
 	display: block;
 	margin: 0 auto;
