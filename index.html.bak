@@ -22,7 +22,7 @@ http://www.tooplate.com/view/2086-multi-color
     <!-- Bootstrap style -->
     <link rel="stylesheet" href="css/hero-slider-style.css">                              
     <!-- Hero slider style (https://codyhouse.co/gem/hero-slider/) -->
-    <link rel="stylesheet" href="css/magnific-popup.css">                                 
+    <!--<link rel="stylesheet" href="css/magnific-popup.css">   -->                              
     <!-- Magnific popup style (http://dimsemenov.com/plugins/magnific-popup/) -->
     <link rel="stylesheet" href="css/tooplate-style.css">                                   
 
@@ -83,7 +83,7 @@ http://www.tooplate.com/view/2086-multi-color
                     <div class="cd-full-width">
                         <div class="container-fluid js-tm-page-content" data-page-no="1" data-page-type="gallery">
                             <div class="tm-img-gallery-container">
-                                <div>
+                                <div class="tm-img-gallery gallery-one">
                                 <!-- Gallery One pop up connected with JS code below -->                                    
                                     <div class="tm-img-gallery-info-container">                                    
                                         <h2 class="tm-text-title tm-gallery-title tm-white"><span class="tm-white">LED Downlight / Surface Mounted</span></h2>
